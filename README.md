@@ -9,6 +9,10 @@ A fully interactive data table built with React + Redux Toolkit, featuring:
     5. Virtual test data support
     6. Full test coverage with Vitest + React Testing Library
 
+Live Demo
+
+👉 Live Project:https://dynamic-table001-git-main-pavans-projects-db0e1877.vercel.app/
+
 
 Tech Stack
 
@@ -30,7 +34,8 @@ Testing
 
 Deployment
 
-    
+    Vercel
+
 
 
 Running Tests
